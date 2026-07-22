@@ -2,6 +2,13 @@
 
 !!! abstract "Infrastructure as Code - Data"
 
-This will be the main introduction page
+To fully automate configurations, we need a backend database which is vendor and equipment agnostic, but rich and flexible enough to capture all the requirements. 
 
-Edit mkdoc.yml to set the name of this document
+Behind any configuration initiative, we need a data model. 
+
+Questions arise when we are modelling a system.
+
+1. What is its configuration?
+2. Can we retrieve data from the system?
+3. Does it have state?
+4. Can the equipment notify us of events which occur?
