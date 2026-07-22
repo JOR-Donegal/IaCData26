@@ -1,5 +1,3 @@
-# MKTemplate
-Template for new teaching notes
+# IaC Data
 
-1. Edit mkdocs to name the project and add a URL
-2. 
+Created in July 26, based on old SDN notes on data models and formats.

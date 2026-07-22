@@ -2,9 +2,7 @@
 
 !!! abstract "Infrastructure as Code - Data"
 
-To fully automate configurations, we need a backend database which is vendor and equipment agnostic, but rich and flexible enough to capture all the requirements. 
-
-Behind any configuration initiative, we need a data model. 
+To fully automate configurations, we need a backend database which is vendor and equipment agnostic, but rich and flexible enough to capture all the requirements.
 
 Questions arise when we are modelling a system.
 
