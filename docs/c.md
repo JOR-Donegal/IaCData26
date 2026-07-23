@@ -6,18 +6,13 @@ Data is represented as _key-value pairs_, _lists_ and _nested objects_.
 
 Structure is created using _indentation_.
 
-````
-</>YAML
-
+```yaml
 # Key value pairs 
-firstname:"John",
+first_name:"John",
 surname : "ORaw",
 ````
 
-
-````
-</>YAML
-
+```yaml
 # Lists
 Modules:
   - IaC
@@ -26,22 +21,18 @@ Modules:
   - Storage
 ````
 
-````
-</>YAML
-
+```yaml
 # Nested Objects
 person: 
-  firstname:"John",
+  first_name:"John",
   surname : "ORaw",
   address:
     house: The Aras
     street: phoenix park
     city: dublin  
-````
+```
 
-````
-</>YAML
-
+```yaml
 # Lists of objects
 Modules:
  - name: IaC
@@ -49,7 +40,7 @@ Modules:
  - name: Networking
    description: Introduction to Networking 
     
-````
+```
 
 YAML is very easy for humans to read and is by far the most economical and efficient of the data formats discussed. However it requires consistent indentation, normally two spaces. I am sometime lazy and without thinking, I use a tab. This will work on some systems and then fail miserably when I do not expect it to!
 
