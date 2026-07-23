@@ -5,8 +5,6 @@ _EXtensible Markup Language_ (XML) has been around since c. 1996 and was a commo
 - [XML1.0](https://www.w3.org/TR/2008/REC-xml-20081126/) last modified 2013.
 - [XML1.1](https://www.w3.org/TR/2006/REC-xml11-20060816/) from 2006.
 
-XML is a way of storing data, the XML file itself does not do anything and you cannot run it like a programme. If you are using XML, you need a programme to generate the XML file and a programme to consume its content.
-
 An XML document consists of;
 
 1. A declaration of XML version
@@ -31,3 +29,5 @@ Attributes can be contained in the start tag of an element and must be contained
 ````
 
 To gain some basic familiarity, review this [course](https://www.w3schools.com/xml/default.asp) on W3 Schools.
+
+I find XML a bit hard to read and it is a bit verbose. There are more economical ways to transfer data.
