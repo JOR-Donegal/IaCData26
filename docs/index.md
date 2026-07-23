@@ -14,6 +14,6 @@ It allows you to:
 - Cache data for faster retrieval
 - Store configuration in a portable format
 
-XML, JSON and YAML are ways of serializing, storing data and communicating it. 
+XML, JSON and YAML are ways of serializing, storing data and communicating data.
 
 The data file itself does not do anything and you cannot run it like a programme. If you are using these data files, you need a programme to generate the files and a programme to consume its content.

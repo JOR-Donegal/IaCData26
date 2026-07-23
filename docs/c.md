@@ -4,6 +4,8 @@ _YAML_ (YAML Ain't Markup Language) is minimalist compared to XML or JSON and is
 
 Data is represented as _key-value pairs_, _lists_ and _nested objects_.
 
+Structure is created using _indentation_.
+
 ````
 </>YAML
 
@@ -49,6 +51,8 @@ Modules:
     
 ````
 
-YAML is very easy for humans to read and is by far the most economical and efficient of the data formats discussed. However requires consistent indentation, normally two spaces. I am sometime lazy and without thinking, I use a tab. This will work on some systems and then fail miserably when I do not expect it to!
+YAML is very easy for humans to read and is by far the most economical and efficient of the data formats discussed. However it requires consistent indentation, normally two spaces. I am sometime lazy and without thinking, I use a tab. This will work on some systems and then fail miserably when I do not expect it to!
+
+Some users criticize it 
 
 __Use two spaces for indentation__.
